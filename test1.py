@@ -28,10 +28,6 @@ tasks = [
     {"name": "Task5", "start": "8:00PM", "end": "10:00PM"},
 ]
 
-newlist = sorted(tasks, key=lambda d: d['start']) 
-
-print(newlist)
-
 ongoing_task = []
 
 list_of_processors = ["p1", "p2", "p3", "p4", "p5",]
