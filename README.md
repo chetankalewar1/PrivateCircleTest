@@ -5,6 +5,7 @@
   
 
 NSE Scraper can be used to get the equity data from the page.
+Please check this [file](https://github.com/chetankalewar1/PrivateCircleTest/blob/main/NSEScrapper/NSEScrapper/spiders/nse_spider.py) for scraping info.
 You need a Django server running on the local , since this scrapper dumps the data to database via API.  
 Clone the Django server for this project from this  [link1](https://github.com/chetankalewar1/PrivateCircleServer)  or [link2](https://github.com/chetankalewar1/PrivateCircleServer) for Mongo based server.
 
